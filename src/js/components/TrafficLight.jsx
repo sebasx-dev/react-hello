@@ -34,9 +34,6 @@ const TrafficLight = () => {
 
     );
     
-    <button onClick={toggleColor} style={{ marginTop: "20px" }}>
-    Cambiar color
-    </button>
 
 };
 
